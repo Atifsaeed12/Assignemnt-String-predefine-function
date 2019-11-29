@@ -1,0 +1,1 @@
+# Assignemnt-String-predefine-function
